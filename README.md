@@ -62,7 +62,7 @@ screenshots/pdf2-unlocked.png — PDF 2 opened with cracked password
 screenshots/pdf3-unlocked.png — PDF 3 opened with cracked password
 screenshots/johnny-password-cracked.png — Johnny GUI showing the cracked password after the JTR attack completed
 🎥 Demo Video
-demo/networkwalks-password-crack-demo.mp4 — Full screen recording of the process: calculating the PDF's hash with the Networkwalks Hash Calculator → cracking it with the Networkwalks Password Cracker → entering the recovered password to unlock the PDF
+demo/demo.mp4 — Full screen recording of the process: calculating the PDF's hash with the Networkwalks Hash Calculator → cracking it with the Networkwalks Password Cracker → entering the recovered password to unlock the PDF
 ✅ Results
 PDF File	Status
 Locked PDF 1	🔓 Cracked & Opened
