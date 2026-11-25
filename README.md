@@ -78,10 +78,17 @@ This repository documents the completion of **Week 3's two compulsory modules**,
 
 > Proof of successful password recovery for all three locked PDFs.
 
-- `screenshots/pdf1-unlocked.png` — PDF 1 opened with cracked password
-- `screenshots/pdf2-unlocked.png` — PDF 2 opened with cracked password
-- `screenshots/pdf3-unlocked.png` — PDF 3 opened with cracked password
-- `screenshots/johnny-password-cracked.png` — Johnny GUI showing the cracked password after the JTR attack completed
+**PDF 1 — Opened with cracked password**
+![PDF 1 unlocked](screenshots/pdf1-unlocked.png)
+
+**PDF 2 — Opened with cracked password**
+![PDF 2 unlocked](screenshots/pdf2-unlocked.png)
+
+**PDF 3 — Opened with cracked password**
+![PDF 3 unlocked](screenshots/pdf3-unlocked.png)
+
+**Johnny GUI — Cracked password shown after JTR attack**
+![Johnny password cracked](screenshots/johnny-password-cracked.png)
 
 ---
 
